@@ -20,7 +20,7 @@ body {
 
 .heading {
     text-align: center;
-    width: 100%;
+    width: 85%;
     margin: auto;
     font-size: 15px;
 }
@@ -41,10 +41,11 @@ body {
 }
 
 .card {
-    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
-    width: 94%;
+    box-shadow: rgb(0 0 0 / 10%) 0px 20px 25px -5px, rgb(0 0 0 / 4%) 0px 10px 10px -5px;
+    width: 80%;
     padding: 15px;
     border-radius: 10px;
+    margin: 20px auto;
 }
 
 .Supervisior {
